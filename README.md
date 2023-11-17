@@ -1,6 +1,6 @@
 # When Was the Golden Age of Video Games
 <p align="center">
-  <img src="https://go.forrester.com/wp-content/uploads/2019/12/ICBC-300x188.jpeg">
+  <img src="[https://go.forrester.com/wp-content/uploads/2019/12/ICBC-300x188.jpeg](https://unsplash.com/photos/a-yellow-computer-on-a-table-F6J2YEy6U8A)">
 </p>
 
 ## Description
